@@ -1,0 +1,814 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="title" content="Klopapierarchiv" />
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Klopapierarchiv" />
+<meta name="keywords" content="klopapier" />
+<meta name="language" content="de" />
+
+<title>Klopapierarchiv</title>
+
+<script type="text/javascript" src="js/boxover.js"></script>
+
+<link rel="shortcut icon" href="favicon.ico" />
+
+<style type="text/css">
+<!--
+body,.body,p,h1,h2,h3,h4,h5,h6
+{
+	margin:0;
+	padding:0;
+	font-family: "Courier New", Courier, mono;
+}
+#header {
+	left:0px;
+	top:0px;
+	width:800px;
+	height:100px;
+}
+#slider {
+	left:0px;
+	top:100px;
+	width:100%;
+}
+#footer {
+	left:0px;
+	width:100%;
+	height:100px;
+	z-index:2;
+}
+h1 {
+	font-size: 24px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	line-height: 40px;
+}
+h3 {
+	font-size: 12px;
+}
+.formular-content {
+	font-family: "Courier New", Courier, mono;
+	font-size: 11px;
+	font-weight: bold;
+	font-variant: normal;
+	font-style: normal;
+	letter-spacing: -0.5px;
+	line-height: 11px;
+}
+#content-klopapiernr {
+	position:absolute;
+	left:609px;
+	top:69px;
+	width:143px;
+	height:16px;
+	z-index:2;
+}
+#content-beschreibung {
+	position:absolute;
+	left:587px;
+	top:118px;
+	width:171px;
+	height:74px;
+	z-index:2;
+}
+#content-mase {
+	position:absolute;
+	left:624px;
+	top:203px;
+	width:130px;
+	height:18px;
+	z-index:2;
+}
+#content-notice {
+	position:absolute;
+	left:587px;
+	top:229px;
+	width:168px;
+	height:48px;
+	z-index:2;
+}
+#content-fundort {
+	position:absolute;
+	left:587px;
+	top:289px;
+	width:166px;
+	height:39px;
+	z-index:2;
+}
+#content-datum {
+	position:absolute;
+	left:631px;
+	top:340px;
+	width:123px;
+	height:16px;
+	z-index:2;
+}
+#content-image {
+	position:absolute;
+	left:118px;
+	top:59px;
+	width:421px;
+	height:302px;
+	z-index:2;
+}
+
+div.thumb_sq1,
+div.thumb_sq2,
+div.thumb_sq3 {	float:left; }
+
+div.thumb_sq1 {	margin:0 5px 5px 0; }
+
+div.thumb_sq1 a img
+{
+	display:block;
+	border:1px solid #CCC;
+	padding:3px;
+	background:white;
+}
+div.thumb_sq1 a:hover img {	background:#EEE; }
+
+.tipheader
+{
+	text-align:left;
+	width:202px;
+	padding:3px;
+	color:white;
+	filter:alpha(opacity=85); /*IE*/
+	background-color: #cccccc; 
+	opacity:0.85; /*FF*/
+	margin-bottom:1px;
+
+}
+.tipbody {
+	border:1px solid #CCC;
+	width:200px;
+	font: 10px/140% Verdana, Geneva, Arial, Helvetica, sans-serif;
+	padding:3px;
+	color:#1B4966;
+	background-color: #eeeeee; 
+	filter:alpha(opacity=85); /*IE*/
+	opacity:0.85; /*FF*/
+}
+-->
+</style>
+<link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
+</head>
+<body>
+
+<div id="header">
+<div style="position:absolute; left:100px; width: 800px;">
+	<img src="images/Klopapier.jpg" alt="Klopapier" width="75" height="80" style="float:left;"/>
+	<h1>Klopapierarchiv</h1>
+    <p>&nbsp;&nbsp;
+	<a href="index.html"><- zur Übersicht</a> | 
+    <a href="about/index.html">about</a> | <a href="ausstellung/index.html">ausstellung</a>    </p>
+</div>
+</div>
+
+<div id="slider">
+<div style="position:absolute; left: 20px; width: 30px; top:300px;">
+	</div>
+<div style="position:relative; left: 100px; width: 800px;">
+    <div style="display:block;">
+<div class="ccgalerie">
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1312280001] body=[Erste Lage bedruckt mit Blüten (blau, gelb). Raster aus drei verschiedenen RP, rechteckig, quadratisch.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1312280001/index.html"><img src="images/scans/thumbs/1.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3310090002] body=[Erste und zweite Lage rosa, dritte Lage weiß. Rasterprägung: diagonal, tief. RP: Lange Ovale in Laufrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3310090002/index.html"><img src="images/scans/thumbs/2.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3320090003] body=[Erste Lage rosa, zweite und dritte weiß. Prägung: Relief aus unregelmäßigen Rundformen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3320090003/index.html"><img src="images/scans/thumbs/3.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090004] body=[Rasterprägun: diagonal, lange Ovale in Abwickelrichtung] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090004/index.html"><img src="images/scans/thumbs/4.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3210090005] body=[Raster Sehr fein, diagonal, flach geprägt.  Erhabene Rauten quer zur Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3210090005/index.html"><img src="images/scans/thumbs/5.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1213090007] body=[Prägung: &quot;Mäanderfries&quot; aus einzelnen Punkten, zwei Streifen pro Blatt. Flache Prägung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1213090007/index.html"><img src="images/scans/thumbs/7.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310240008] body=[Erste Lage bedruckt mit Bourbonenlilien (rosa). Rasterprägung diagonal, RP: quadratisch.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310240008/index.html"><img src="images/scans/thumbs/8.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0110090009] body=[Diagonale Rasterprägung. Rasterpunkte quadratisch, diagonal zur Laufrichtung (karo)] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0110090009/index.html"><img src="images/scans/thumbs/9.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1312090011] body=[Rasterprägung aus drei verschiedenen RP, angeordnet zu Karomuster] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1312090011/index.html"><img src="images/scans/thumbs/11.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1312370012] body=[Erste Lage bedruckt mit Markennamen &quot;Rossmann&quot;, Rasterprägung diagonal, 3 verschiedene RP] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1312370012/index.html"><img src="images/scans/thumbs/12.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1331090013] body=[Prägung: Blumenumster mit Rasterfüllung. Blumen/Kreise: große Runde RP, Hintergrund, kleine Karos.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1331090013/index.html"><img src="images/scans/thumbs/13.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4314370014] body=[Erste Lage bedruckt mit blauer Aufschrift &quot;Happy End&quot; und Logo. Hintergrundprägung aus querrechteckigen Rasterpunkten. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4314370014/index.html"><img src="images/scans/thumbs/14.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2341090015] body=[Raster aus runden Punkten schräg zur Laufrichtung. Erste Lage geprägt mit Kringeln in Linientechnik, umgeben von Freiflächen. Seitlich: Streifen mit Gitterstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2341090015/index.html"><img src="images/scans/thumbs/15.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2320260016] body=[Reliefprägung aus in Abwickelrichtung liegenden Rechtecken. Erste Lage bedruckt mit gelben Blüten. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2320260016/index.html"><img src="images/scans/thumbs/16.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1324090017] body=[Reliefprägung: Schachbrett. An den Rändern Linien mit Gitterstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1324090017/index.html"><img src="images/scans/thumbs/17.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090018] body=[Rasterprägung: diagonal
+Rasterpunkte: karo, manchmal rund.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090018/index.html"><img src="images/scans/thumbs/18.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1313090019] body=[Rasterprägung diagonal (Rasterpunkte: Karos) bildet wiederum Karomuster mit Freiflächen, diagonal zur Laufrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1313090019/index.html"><img src="images/scans/thumbs/19.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1211090020] body=[Flechtwerkähnlihces Raster aus verschieden großen viereckigen Rasterpunkten. Zusätzlich seitliche Streifen mit schwacher Gitterstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1211090020/index.html"><img src="images/scans/thumbs/20.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4241220021] body=[Raster aus runden Punkten schräg zur Abwickelrichtung, unterbrochen von Kringeln in Linienprägung vor Freiflächen. 
+Druck: grüne Kringel in drei verschiedenen Größen, unmotiviert auf Prägung verteilt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4241220021/index.html"><img src="images/scans/thumbs/21.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1200090022] body=[Völlig ohne Prägung, nur Perforation hält die Lagen zusammen. Material ist glatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1200090022/index.html"><img src="images/scans/thumbs/22.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2120090023] body=[Reliefprägung aus in Abwickelrichtung liegenden Rechtecken.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2120090023/index.html"><img src="images/scans/thumbs/23.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2210330024] body=[Rasterprägung aus Karos. Signet: Berg, Tanne, Sonne mit und ohne Schriftzug &quot;mach mit...&quot;. Am einen Rand zusätzlicher Streifen aus kleineren Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2210330024/index.html"><img src="images/scans/thumbs/24.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1411330025] body=[Raster &quot;Flechtwerk&quot; aus verschieden großen Punkten. Streifen mit Gitterstruktur. Druck: Schrift &quot;Soft&quot;, Federn (hier zwei mal pro Blatt). Druckfarbe: kräftiges rosa.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1411330025/index.html"><img src="images/scans/thumbs/25.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2211090026] body=[Raster, zu Wellen verzerrt. Punkte quadratisch bis rautenförmig. Zwei Streifen mit Gitterstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2211090026/index.html"><img src="images/scans/thumbs/26.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090027] body=[Vor Hintergrundraster (RP länglich, schmal) Muster in Linienprägung, erinnert an halbierte Zwiebeln oder Walnüsse. Liegt netzartig vor Hintergundpunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090027/index.html"><img src="images/scans/thumbs/27.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090028] body=[Rasterprägung diagonal mit in Laufrichtung liegenden rechteckigen Rasterpunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090028/index.html"><img src="images/scans/thumbs/28.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1243090029] body=[Großes Rosenmuster, erhabene Linienprägung mit Hintergrundraster (diagonale, sehr feine Karos). Auf. zweiter Lage nur Raster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1243090029/index.html"><img src="images/scans/thumbs/29.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1230240030] body=[Muster aus längs liegenden Ovalen. GroßesRaster, gefüllt mit konzentrischen Karos und Freiflächen. Druck: rosa Schmetterlinge in zwei Größen z.T. angeschnitten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1230240030/index.html"><img src="images/scans/thumbs/30.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1440090031] body=[Leichte s-Formen diganonal zur Laufrichtung versetzt und gespiegelt zu einer Art Flechtmuster angeordnet.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1440090031/index.html"><img src="images/scans/thumbs/31.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1200090032] body=[Keine Prägung. Material: Kreppartige Papierstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1200090032/index.html"><img src="images/scans/thumbs/32.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2210090033] body=[Raster aus quadratischen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2210090033/index.html"><img src="images/scans/thumbs/33.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1211090034] body=[Raster: Diagonal zur Laufrichtung, verzerrt durch RP-Variationen (von Quadrat bis Punkt)] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1211090034/index.html"><img src="images/scans/thumbs/34.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[7230090035] body=[Prägung: &quot;Paysley&quot;-Muster aus konzentrischen Punktreihen aus runden Rasterpunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/7230090035/index.html"><img src="images/scans/thumbs/35.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3230090036] body=[Prägung &quot;Paisley&quot;-Muster aus konzentrischen Punktreihen aus runden Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3230090036/index.html"><img src="images/scans/thumbs/36.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090037] body=[Raster diagonal zur Laufrichtung, variiert durch RP-Variationen: einfacher Punkt, zum Rechteck verdoppelter RP, zum Quadrat vervierfachter RP. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090037/index.html"><img src="images/scans/thumbs/37.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2220370038] body=[Erste Lage auf jedem 3. Blatt bedruck mit Markennamen: &quot;Hakle&quot;. Reliefprägung aus Rechtecken in Laufrichtung. Unregelmäßig breite Streifenprägung aus quer zur Laufrichtung liegenden Rauten an den Rändern] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2220370038/index.html"><img src="images/scans/thumbs/38.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3210090039] body=[Diagonales Raster (sehr filigran!) aus quer zur Laufrichtung liegenden Rauten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3210090039/index.html"><img src="images/scans/thumbs/39.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4241090040] body=[Erste Lage geprägt mit Rosen in zwei Größen (Linienprägung) mit sehr feinem Hintergrundraster aus Karos.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4241090040/index.html"><img src="images/scans/thumbs/40.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1220220041] body=[Reliefprägung an Blasen oder Kopfsteinpflaster erinnernd. Bedruckt mit Federn in zwei verschiedenen Größen. Druckfarbe: blaugrün.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1220220041/index.html"><img src="images/scans/thumbs/41.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2210090043] body=[Sehr luftiges diagonales Raster aus quadratischen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2210090043/index.html"><img src="images/scans/thumbs/43.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2230090044] body=[Muster &quot;Waben&quot; aus runden RP (je 12 Punkte bilden eine Wabe). In jeder zweite Reihe: jede zweite Wabe mit einem Punkt in der Mitte.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2230090044/index.html"><img src="images/scans/thumbs/44.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2230090045] body=[Muster &quot;Waben&quot;, wie Nr. 2230090044; zusätzlich Streifenprägung mit Gitterprofil.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2230090045/index.html"><img src="images/scans/thumbs/45.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0211090046] body=[Raster zu Wellenlinien verzerrt. Rasterpunkte quadratisch bis rautenförmig verzerrt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0211090046/index.html"><img src="images/scans/thumbs/46.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1352170047] body=[Abgerundete, sich überschneidende Vierecke aus tief eingeprägten runden Punkten mit konkaven Füllstücken. In Überschnitten Blumen in Linienprägung. Hintergrundraster aus feinen Punkten, Freiflächen um Muster herum.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1352170047/index.html"><img src="images/scans/thumbs/47.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341170048] body=[Netz aus leicht geschwungenen S-Formen (blau ausgedruckte Linienprägung). Jede zweite Reihe mit Kleeblattmotiv. Hintergrundraster aus sehr feinem diagonalen Karos.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341170048/index.html"><img src="images/scans/thumbs/48.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1240090049] body=[Erste Lage geprägt mit &quot;Federn&quot;-Muster aus Linien ohne Hintergrundraster. Ca. 20, z.T. angeschnittene Federn je Blatt. Variation der Federn durch Drehung und Spiegelung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1240090049/index.html"><img src="images/scans/thumbs/49.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1211090050] body=[Raster zu Wellenlinien verzerrt, RP quadratisch - rautenförmig. Leichte Streifenprägung mit feinem Gitterprofil.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1211090050/index.html"><img src="images/scans/thumbs/50.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4310090052] body=[Diagonales Raster aus karoförmigen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4310090052/index.html"><img src="images/scans/thumbs/52.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1412470053] body=[Muster
+Diagonales Hintergrundraster aus karo-Punkten. Darin eingebettet diagonale Rasterstruktur aus doppelten (rechteckigen) und vierfachen (quadratischen)Rasterpunkten mit ca. 1cm Kantenlänge.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1412470053/index.html"><img src="images/scans/thumbs/53.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310270054] body=[Dieagonales Raster aus quadratischen Punkten. Erste Lage bedruckt mit blauen Blüten (Druck ohne Bezug zur Prägung).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310270054/index.html"><img src="images/scans/thumbs/54.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0110090055] body=[Dianonales Raster
+Rasterpunkte: Karo] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0110090055/index.html"><img src="images/scans/thumbs/55.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090056] body=[Kreppartiges Papier. Unregelmäßig verzerrtes Raster aus runden Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090056/index.html"><img src="images/scans/thumbs/56.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4310460057] body=[Diagonales Raster aus mittelgroßen karoförmigen Punkten. Bedruckt mit Schrift &quot;Happy End&quot; und Wellenmuster in dunklerem gelb. Muster ist je Blatt ca. acht mal zu sehen, zwei mal ganz, sechs mal angeschnitten.
+] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4310460057/index.html"><img src="images/scans/thumbs/57.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090058] body=[Prägung: zu quer zur Laufrichtung liegenden Wellen verzerrtes Raster aus quadratischen-rautenförmigen Punkten. Nicht besonders tief geprägt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090058/index.html"><img src="images/scans/thumbs/58.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3313090059] body=[Rautengitter mit inliegender kleinerer Raute, quer zur Laufrichtung, gebildet aus Freiflächen in Rasterprägung.
+Hintergrundprägung besteht ihrerseits aus quer zur Laufrichtung liegenden Rauten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3313090059/index.html"><img src="images/scans/thumbs/59.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310090060] body=[Diagonales Raster aus mittelgroßen, karoförmigen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310090060/index.html"><img src="images/scans/thumbs/60.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090061] body=[Krepp-Papier. Unregelmäßig verzerrtes Raster aus runden Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090061/index.html"><img src="images/scans/thumbs/61.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310260062] body=[Erste Lage hellgelb bedruckt (Typ &quot;Gänseblümchen&quot;, geometrisch abstrahiert, zwei Größen.) Diagonales Raster aus tief geprägten karoförmigen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310260062/index.html"><img src="images/scans/thumbs/62.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1313090063] body=[Prägung: &quot;Mäanderfries&quot; als flächendeckendes Muster. Gebildet aus diagonalem Raster (RP karo) mit Freiflächen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1313090063/index.html"><img src="images/scans/thumbs/63.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310280064] body=[Diagonales Raster, gebildet aus tief eingeprägten, quer zur Laufrichtung stehenden Ovalen. Bedruckt mit Blüten in blau und gelb (zwei verschiedene Größen, ca. 3 z.T. angeschnittene Blüten pro Blatt). Aufschrift: &quot;Soff 3&quot;.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310280064/index.html"><img src="images/scans/thumbs/64.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3230090065] body=[Muster &quot;Waben&quot; wie Nr. 2230090044. Rückseite: entsprechende Ausprägung, vgl. Nr. 2230090045.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3230090065/index.html"><img src="images/scans/thumbs/65.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1204570066] body=[Krepp, nur Streifenprägung mit Gitterprofil. Bedruckt mit Werbung verschiedener Anbieter.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1204570066/index.html"><img src="images/scans/thumbs/66.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090068] body=[Linienprägung &quot;Netz&quot;, wie Nr. 1341170048. Fächer gefüllt mit sternartigen Formen (zwei Größen) und Eiformen in den Ecken.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090068/index.html"><img src="images/scans/thumbs/68.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2230090069] body=[Muster aus Punkten, Typ &quot;Waben&quot;. Prägung wie Nr. 2230090045. Rückseite: freistehende Sechsecke aus je sechs Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2230090069/index.html"><img src="images/scans/thumbs/69.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441090070] body=[Prägung: S-Formen bilden Gitter, gefüllt mit flächig geprägten Bourbonenlilien. Hintergundmuster aus diagonal angeordneten kleinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441090070/index.html"><img src="images/scans/thumbs/70.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1430090071] body=[Flächendeckendes Muster, Achtecke, Vierecke aus Ovalen Einzelpunkten. In Achtecken: konzentrische Punktreihen, Kreise; in Vierecken: Kreuzform.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1430090071/index.html"><img src="images/scans/thumbs/71.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1431090072] body=[Muster aus Punkten, Wellenformen quer zur Abwickelrichtung. Hintergrundmuster aus feinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1431090072/index.html"><img src="images/scans/thumbs/72.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1331320073] body=[Großes Raster aus Tropfenformen, darin zwei kleinere Karos und ein Kreis. Hintergrundmuster aus sehr kleinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1331320073/index.html"><img src="images/scans/thumbs/73.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4204090074] body=[Kreppartiges Material, als Prägung nur zwei Streifen mit Gitterprofil.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4204090074/index.html"><img src="images/scans/thumbs/74.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3111090075] body=[Prägung: verzerrtes Raster durch Variationen der einzelnen Punkte von quadratisch bis rautenförmig.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3111090075/index.html"><img src="images/scans/thumbs/75.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090076] body=[Schmetterlinge (zwei Größen) und Blüten (zwei Sorten) in Linienprägung. Hintergrundmuster aus feinen diagonalen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090076/index.html"><img src="images/scans/thumbs/76.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2410230077] body=[Diagonales Karomuster. Bedruckt mit Motiv &quot;Federn&quot; (lila, zwei Größen) in lockerer Verteilung (ca. acht pro Blatt).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2410230077/index.html"><img src="images/scans/thumbs/77.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3320340078] body=[Erste Lage Rosa, zweite, dritte weiß. Reliefprägung &quot;Rechtecke&quot;. Bedruckt mit schrägen Linien aus einzelpunkten und Rechteckmuster, Produktnamen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3320340078/index.html"><img src="images/scans/thumbs/78.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2210090079] body=[Feines undeutlich geprägtes Raster aus schmalen Rauten, quer zur Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2210090079/index.html"><img src="images/scans/thumbs/79.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1320370080] body=[Reliefprägung &quot;Rechtecke&quot;. Jedes 2. Blatt bedruckt. Alternierend &quot;Hakle Family&quot;, &quot;Antibakterielle Pflege&quot;.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1320370080/index.html"><img src="images/scans/thumbs/80.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090081] body=[Rosen in Linienprägung (breite Linien) vor Hintergrundmuster aus eng gesetzten, feinen Karos.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090081/index.html"><img src="images/scans/thumbs/81.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1204090082] body=[Kreppartiges Papier. Einzige Prägung: zwei Streifen ohne Profil, die die Lagen zusammenhalten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1204090082/index.html"><img src="images/scans/thumbs/82.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1200500083] body=[Keine Prägung. Bedruckt mit Cartoons, acht verschiedene anzügliche Arztwitze, überwiegend mit nackten Frauen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1200500083/index.html"><img src="images/scans/thumbs/83.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090084] body=[Raster &quot;Standard&quot;, aus quer zur Abwickelrichtung stehenden, schmalen Rauten. Zwei Streifen mit Gitterprofil.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090084/index.html"><img src="images/scans/thumbs/84.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3214570085] body=[Karo-Muster, zwei seitliche Streifen mit Gitterprofil. Bedruckt mit humorigen Klohäuschen-Szenen. Druckfarbe blau.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3214570085/index.html"><img src="images/scans/thumbs/85.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1240090086] body=[Linienprägung (Blumenmuster)ohne Hintergrundmuster auf Vorderseite. Auf Rückseite Muster aus feinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1240090086/index.html"><img src="images/scans/thumbs/86.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090087] body=[Blüten, dazwischen Blattformen aus runden Punkten. Papier hat kreppartige Struktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090087/index.html"><img src="images/scans/thumbs/87.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1352090088] body=[Abgerundete überschnittene Vierecke mit konkaven Füllstücken. In Überschnitten: Blumen in Linienprägung. Hintergrundmuster aus feinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1352090088/index.html"><img src="images/scans/thumbs/88.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1410230089] body=[Diagonales Muster aus Karos. Bedruckt mit Federn (lila, zwei Größen) in lockerer Verteilung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1410230089/index.html"><img src="images/scans/thumbs/89.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1312370090] body=[Diagonal-Gitter aus drei verschieden großen Prägepunkten. Druck: Logo, Schrift &quot;Premium Qualität&quot;.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1312370090/index.html"><img src="images/scans/thumbs/90.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090091] body=[Muster aus Punkten: Wellenformen quer zur Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090091/index.html"><img src="images/scans/thumbs/91.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1211090092] body=[Gitterartiges Raster, leicht schräg, schwach geprägt, aus Fragmenten schmaler Linien.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1211090092/index.html"><img src="images/scans/thumbs/92.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1204380093] body=[Prägung Streifen mit Gitterstruktur. Bedruckt mit Buchstaben &quot;r&quot;, seitl. eingefasst von floralen Elementen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1204380093/index.html"><img src="images/scans/thumbs/93.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210280094] body=[Feines Muster aus Rauten quer zur Abwickelrichtung. Druck: Linien und Blumen längs der Abwickelrichtung (blau, gelb).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210280094/index.html"><img src="images/scans/thumbs/94.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3100090095] body=[Keine Prägung, An Rändern und in Blattmitte 4-5x perforiert. An Rändern gezähnt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3100090095/index.html"><img src="images/scans/thumbs/95.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1204090096] body=[Prägungsstreifen mit Gitterstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1204090096/index.html"><img src="images/scans/thumbs/96.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1200090097] body=[Kreppartiges Material, keinerlei Prägung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1200090097/index.html"><img src="images/scans/thumbs/97.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3100090098] body=[Keine Prägung, Blattränder gezähnt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3100090098/index.html"><img src="images/scans/thumbs/98.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3230090099] body=[Organisch bewegtes Raster aus großen Punkten gefüllt mit Freiflächen und Feldern aus kleineren Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3230090099/index.html"><img src="images/scans/thumbs/99.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2210500100] body=[Prägung: zu Karomuster angeordnete Punkte,] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2210500100/index.html"><img src="images/scans/thumbs/100.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090101] body=[Linienprägung &quot;Netz&quot; mit Sternformen mittig und Eiformen in den Ecken der Fächer. Hintergrund: Muster aus feinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090101/index.html"><img src="images/scans/thumbs/101.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341470102] body=[Linienprägung mit HgR.: Sternformen m. Kreis in der Mite, dazwischen Vierecke. Bedruckt mit Wolken und Logo (blau).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341470102/index.html"><img src="images/scans/thumbs/102.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1230090103] body=[Muster aus Punkten: konzentrische Kreissegmente, versetzt. Bogenbildung quer zur Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1230090103/index.html"><img src="images/scans/thumbs/103.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341470104] body=[Linienprägung &quot;Sterne&quot; wie Nr. 1341470102. Bedruckt mit Wolken und karikaturhaften Tiermotiven.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341470104/index.html"><img src="images/scans/thumbs/104.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1221090105] body=[Reliefprägung &quot;Pflastersteine&quot;, in Freiflächen Schmetterlinge in Linienprägung ausgeführt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1221090105/index.html"><img src="images/scans/thumbs/105.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441090106] body=[Flächig geprägte florale Formen (Bourbonenlilien)mit umgebenden Freiflächen vor Muster aus feinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441090106/index.html"><img src="images/scans/thumbs/106.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090107] body=[Verzerrtes Raster. RP karo- bis parallelogrammförmig. Sekundär: schmales querliegendes Rautenmuster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090107/index.html"><img src="images/scans/thumbs/107.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090108] body=[Standardraster diagonal. Rasterpunkte tief eingeprägt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090108/index.html"><img src="images/scans/thumbs/108.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4341520109] body=[Kringel in Linienprägung, vor schrägem Hintergrundmuster aus runden Prägepunkten. Bedruckt mit verschiedenen Dialektausdrücken, Blattmotiv, Logo.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4341520109/index.html"><img src="images/scans/thumbs/109.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[7320090111] body=[Reliefprägung: Rechtecke in Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/7320090111/index.html"><img src="images/scans/thumbs/111.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1331090112] body=[Waagerechte Reihen aus s-Formen. Mäandermuster als Hintergrund.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1331090112/index.html"><img src="images/scans/thumbs/112.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0100090113] body=[Kreppartiges Material, keinerlei Prägung. Blattperforation unregelmäßig.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0100090113/index.html"><img src="images/scans/thumbs/113.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330370114] body=[Prägung &quot;Waben&quot; wie Nr. 2230090044; dazu zwei Streifen (Gitterprofil). Rückseite: freistehende Sechsecke. Bedruckt m. Logo &quot;Cosy&quot;.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330370114/index.html"><img src="images/scans/thumbs/114.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090115] body=[Linienprägung &quot;Netz&quot; flankiert von Doppelreihe feiner RP und blanco-Streifen, vor Hintergrundmuster aus feinen Punkten. Tulpen in Linienprägung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090115/index.html"><img src="images/scans/thumbs/115.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2230090116] body=[Prägung: &quot;Paisley&quot;-Muster aus konzentrischen Punktreihen. Rasterpunkte rund.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2230090116/index.html"><img src="images/scans/thumbs/116.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090117] body=[Raster, verzerrt durch RP karo- bis parallelogrammförmig.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090117/index.html"><img src="images/scans/thumbs/117.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[7220090118] body=[Reliefprägung &quot;Pflastersteine&quot;, Schmetterlinge (Linienprägung) in Freiflächen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/7220090118/index.html"><img src="images/scans/thumbs/118.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4211090119] body=[Verzerrtes Raster durch RP in verschiedenen Größen (einzel, doppelt, vierfach). Am Rand Streifenprägung mit Gitterprofil.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4211090119/index.html"><img src="images/scans/thumbs/119.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4340090120] body=[Rauten in Linienprägung, quer zur Laufrichtung. Muster bildet reliefartige Oberfläche.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4340090120/index.html"><img src="images/scans/thumbs/120.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3241090121] body=[Rosen in Linienprägung (breite Linien) vor Hintergrundmuster aus kleinen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3241090121/index.html"><img src="images/scans/thumbs/121.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3211090122] body=[Raster zu Wellenlinien verzerrt. Einzelne Rasterpunkte sind quadratisch-rautenförmig.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3211090122/index.html"><img src="images/scans/thumbs/122.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0111090123] body=[Unregelmäßig verzerrtes Muster aus runden Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0111090123/index.html"><img src="images/scans/thumbs/123.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1240090125] body=[Bären, Markenname &quot;Charmin&quot; in Linienprägung vor Hintergrundprägung aus blütenartig angeordneten Ovalen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1240090125/index.html"><img src="images/scans/thumbs/125.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1304260126] body=[Prägung: Streifen mit Gitterprofil. Bedruckt mit zwei gelben Längsstreifen, 0,5 und 0,2 cm breit.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1304260126/index.html"><img src="images/scans/thumbs/126.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090127] body=[Muster aus Punkten: aneinanderliegende Ovale, gefüllt mit kleineren Ovalen und Linie aus 5 RP. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090127/index.html"><img src="images/scans/thumbs/127.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310090128] body=[Raster aus quer zur Abwickelrichtung liegenden Rauten. Am Rand Streifenprägung mit Rautenprofil] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310090128/index.html"><img src="images/scans/thumbs/128.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[6210580129] body=[Standardraster. Bedruckt mit Cartoon-Enten, in Reihen quer zur Laufrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/6210580129/index.html"><img src="images/scans/thumbs/129.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2200520132] body=[Keine Prägung. Bedruckt mit Kleeblättern und Sprüchen zum St.Patrick's Day.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2200520132/index.html"><img src="images/scans/thumbs/132.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441170133] body=[Weiß, vierlagig. Linienprägung &quot;Gitter&quot;, mit Blumen und Blattformen gefüllt, hellblau ausgedruckt. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441170133/index.html"><img src="images/scans/thumbs/133.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0100090134] body=[Recycling-grau, einlagig. Muster aus Punkten: Kreise (jeweils 12 Punkte) gefüllt mit jeweils 1 Punkt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0100090134/index.html"><img src="images/scans/thumbs/134.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090135] body=[Weiß, dreilagig. Flächendeckendes Muster, Achtecke mit Vierecken aus runden Prägepunkten, konzentrisch mit jeweils kleineren gefüllt. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090135/index.html"><img src="images/scans/thumbs/135.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1324090136] body=[Weiß, dreilagig. Prägung: unregelmäßige Rundformen in leichten Wellenlinien angeordnet, 2 schmale Streifen mit Punktstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1324090136/index.html"><img src="images/scans/thumbs/136.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341170137] body=[Weiß, dreilagig. Linienprägung: Delfine und S-Formen (Angelhaken?) mit hellblauem Druck. Hintergrundraster, kleine Karo-Rasterpunkte.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341170137/index.html"><img src="images/scans/thumbs/137.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1204090138] body=[Weiß, zweilagig. Prägung: 2 Streifen mit Gitterstruktur.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1204090138/index.html"><img src="images/scans/thumbs/138.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090139] body=[Weiß, dreilagig. Muster aus Punkten. Kreise, konzentrisch gefüllt: mit kleineren Kreisen, Punktreihen, Einzelpunkten. Dazwischen Zwickel-Girlanden.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090139/index.html"><img src="images/scans/thumbs/139.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090140] body=[Weiß, dreilagig. Linienprägung &quot;Gitter&quot;, in Ecken: Kreise. Einzelne Fächer gefüllt mit Blumenmotiv (ebenfalls Linienprägung).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090140/index.html"><img src="images/scans/thumbs/140.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1451170141] body=[Weiß, vierlagig. Prägung: Federn, Linienprägung, gefüllt mit Punkten, Schrift &quot;Servus&quot;, mit Hintergrundraster. Druck: hellblau in Linienprägung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1451170141/index.html"><img src="images/scans/thumbs/141.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1331280142] body=[Weiß, dreilagig. Prägung: 2 verschieden große Bogenmotive aus Punkten in drei Reihen. Vor Hintergrundraster, mit Freiflächen. Druck: Ostermotiv, grün/gelb. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1331280142/index.html"><img src="images/scans/thumbs/142.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1541140143] body=[Weiß, fünflagig. Prägung: &quot;Gitter&quot;, gefüllt mit flächig geprägtem Blütenmotiv &quot;Bourbonenlilien&quot;. Apricot-farbener Druck in der Prägung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1541140143/index.html"><img src="images/scans/thumbs/143.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090144] body=[Weiß, zweilagig. Standardraster aus karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090144/index.html"><img src="images/scans/thumbs/144.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1200090145] body=[Weiß, zweilagig. Keine Prägung. Papierstruktur: Krepp.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1200090145/index.html"><img src="images/scans/thumbs/145.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1331090146] body=[Weiß, dreilagig. Waagerechte S-Formen, gebildet aus drei Punktreihen vor Hintergrundraster (Prägepunkte: Karo)-] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1331090146/index.html"><img src="images/scans/thumbs/146.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090147] body=[Weiß, dreilagig. Ketten aus Punkten als Schrägstreifen. Mit Mittel-Punkt in jedem Kettenglied.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090147/index.html"><img src="images/scans/thumbs/147.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1412090148] body=[Weiß, vierlagig. Karomuster aus Rasterpunkten, kleine Quadrate, doppelte und vierfache.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1412090148/index.html"><img src="images/scans/thumbs/148.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330340149] body=[Weiß, dreilagig. Muster aus Punkten. Doppelovale gefüllt mit kleinen Ovalen, diagonal gruppiert um Einzelpunkt. Dazwischen Füllformen aus 4 bzw. 6 Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330340149/index.html"><img src="images/scans/thumbs/149.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341140150] body=[Weiß, dreilagig. Muster aus eingeprägten Linien. 4-5 Federn pro Blatt vor feinem, diagonalem Raster aus runden Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341140150/index.html"><img src="images/scans/thumbs/150.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090151] body=[Weiß, dreilagig. Linienprägung: Wellenlinien und Logo &quot;dm&quot; vor feinen diagonalen Rasterpunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090151/index.html"><img src="images/scans/thumbs/151.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090152] body=[Weiß, zweilagig. Liniengeprägtes Blütenmuster mit Hintergrundraster aus besonders feinen Karos. 1 große und 2-3 kleinere Blumen pro Blatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090152/index.html"><img src="images/scans/thumbs/152.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330460153] body=[Weiß, dreilagig. Großes Raster aus ovalen Prägepunkten, darin ebenso geprägte konzentrische Karos. Blattartige Form und Markenname &quot;Bess&quot; in orange aufgedruckt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330460153/index.html"><img src="images/scans/thumbs/153.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441170154] body=[Weiß, vierlagig. Drei verschiedene Blumen vor feinem Raster aus karoförmigen Prägepunkten. Ca. 6, z.T. angeschnittene Blumen je Blatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441170154/index.html"><img src="images/scans/thumbs/154.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441170155] body=[Weiß, vierlagig. Raster aus in Laufrichtung liegenden Ovalen vor ganz feiner Punktstruktur. Quer zur Abwickelrichtung liniengeprägte Pottwale in hellblau.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441170155/index.html"><img src="images/scans/thumbs/155.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1340090156] body=[Weiß, dreilagig. Rauten in Linienprägung in Laufrichtung, so dass reliefartige Oberfläche entsteht.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1340090156/index.html"><img src="images/scans/thumbs/156.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3100090157] body=[Rosa, einlagig. Keine Prägung. Leicht schräg geschnitten. Nahezu identischmit Nr. 3100090095 und 3100090098.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3100090157/index.html"><img src="images/scans/thumbs/157.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0110090158] body=[Grau, einlagig. Papierstruktur: Krepp. Gerades Raster aus quadratischen Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0110090158/index.html"><img src="images/scans/thumbs/158.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090159] body=[Weiß, dreilagig. Muschelförmiges Ornament in Linienprägung vor feinem Raster. 8-9, teilweise angeschnittene Ornamente je Blatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090159/index.html"><img src="images/scans/thumbs/159.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4331090160] body=[Gelb, dreilagig. Prägung: Herzen aus Punkten vor feinem Raster, 2 schmale, diagonal gerasterte Streifen. Ca. 36 Herzen pro Einzelblatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4331090160/index.html"><img src="images/scans/thumbs/160.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341170161] body=[Weiß, dreilagig. Blattmuster (3 versch.,ca. 9-Mal z.T. angeschnitten je Blatt). Linienprägung, blau ausgedruckt. Feines Raster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341170161/index.html"><img src="images/scans/thumbs/161.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1211090162] body=[Weiß, zweilagig. Flechtwerkartiges Raster aus verschieden geformten Punkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1211090162/index.html"><img src="images/scans/thumbs/162.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1100090163] body=[Weiß, einlagig. Kreppartige Papierstruktur, aber relativ glatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1100090163/index.html"><img src="images/scans/thumbs/163.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1430470164] body=[Weiß, vierlagig. Raster (Karomuster aus ovalen Prägepunkten) und Druck (Blattform, Markenname) wie bei Nr. 1330460153. Druckfarbe ist hier blau.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1430470164/index.html"><img src="images/scans/thumbs/164.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090165] body=[Weiß, zweilagig. Geschwungenes Raster aus runden Punkten. Alle 6 Reihen sind ca. 18 Punkte in einer Linie verbunden.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090165/index.html"><img src="images/scans/thumbs/165.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1313090166] body=[Weiß, dreilagig. Gitterstruktur aus versetzt stehenden, steilen Trapezformen aus runden Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1313090166/index.html"><img src="images/scans/thumbs/166.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1313090167] body=[Weiß, dreilagig. Rasterprägung wie Nr. 1312090011. Ca. 6., teils angeschnittene Blüten, Typ &quot;Gänseblümchen&quot; je Blatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1313090167/index.html"><img src="images/scans/thumbs/167.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1313090168] body=[Weiß, dreilagig. Flechtmuster aus jeweils 5 Reihen runter Prägepunkte.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1313090168/index.html"><img src="images/scans/thumbs/168.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330270169] body=[Weiß, dreilagig. Prägung (Karomuster aus Punkten) wie Nr. 1230240030, 1330460153 und 1430470164. Druck: blaues Blütenmotiv wie in Nr. 1310270054. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330270169/index.html"><img src="images/scans/thumbs/169.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1342170170] body=[Weiß, dreilagig. Delfine und Wellen in blau ausgedruckter Linienprägung vor feinem Raster. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1342170170/index.html"><img src="images/scans/thumbs/170.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1352090171] body=[Weiß, dreilagig. Kringel aus ovalen Prägepunkten vor feinem Raster. Markenname &quot;Rossmann&quot; in Linienprägung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1352090171/index.html"><img src="images/scans/thumbs/171.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090172] body=[Weiß, dreilagig. Muster aus stilisierten Blüten und Blättern vor feinem Raster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090172/index.html"><img src="images/scans/thumbs/172.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1351090173] body=[Weiß, dreilagig. Netz aus punktgeprägten Kreisen, die sich jeweils zu einem Kreisbogenviertel durchschneiden. In den Kreisen liniengepr. Schmetterlingsmotiv.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1351090173/index.html"><img src="images/scans/thumbs/173.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1351280174] body=[Weiß, dreilagig. Rankenmuster aus runden Prägepunkten mit liniengeprägten Blättern. Mit gelben u. braunen Blättern bedruckt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1351280174/index.html"><img src="images/scans/thumbs/174.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210270175] body=[Weiß, zweilagig. Raster aus in Abwickelrichtung liegenden, schmalen Rechtecken sowie 2 Streifen mit Gitterstruktur. Druck: blaue Blüten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210270175/index.html"><img src="images/scans/thumbs/175.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1331270176] body=[Weiß, dreilagig. Prägung: Bögen aus Punkten wie Nr. 1331280142] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1331270176/index.html"><img src="images/scans/thumbs/176.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4241090177] body=[Gelb, dreilagig. Liniengeprägte Federnmotive (2 versch.) mit feinem Hintergrundraster. Ca. 6 Federn pro Blatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4241090177/index.html"><img src="images/scans/thumbs/177.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210280178] body=[Weiß, zweilagig. Diagonales Raster aus karoförmigen Punkten. Bedruckt mit Gras-/Ährenmotiv in 4 Variationen. Druckfarben: blau, violett.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210280178/index.html"><img src="images/scans/thumbs/178.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441090179] body=[Weiß, vierlagig. Liniengeprägtes Blumenmuster mit Freiflächen vor feinem Raster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441090179/index.html"><img src="images/scans/thumbs/179.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090180] body=[Weiß, dreilagig. Liniengeprägtes geflochtn anmutendes Gitter, darin Blüten-/Blättermotiv. Mit Hintergrundraster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090180/index.html"><img src="images/scans/thumbs/180.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341170181] body=[Weiß, dreilagig. Liniengeprägte Motive zum Thema &quot;Himmel&quot; (Wolken, Sonne Vögel), blau ausgedruckt. Vor feinem Raster aus karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341170181/index.html"><img src="images/scans/thumbs/181.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3310090182] body=[Lachsrosa, dreilagig. Diagonales Raster aus karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3310090182/index.html"><img src="images/scans/thumbs/182.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090183] body=[Weiß, zweilagig. Geschwungenes Gitter, z.T. Kreise an den Kreuzungspunkten bildet konkave und konvexe Fächer. Mit Hintergrundraster. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090183/index.html"><img src="images/scans/thumbs/183.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090184] body=[Weiß, dreilagig. Prägung exakt wie in Nr. 1330340149. Dort bedruckt, hier unbedruckt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090184/index.html"><img src="images/scans/thumbs/184.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1120270185] body=[Weiß, einlagig. Reliefprägung durch 21 Linien in Abwickelrichtung (aus ca. 5 mm langen versetzten Fragmenten).Dazwischen diagonale Punktreihen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1120270185/index.html"><img src="images/scans/thumbs/185.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090186] body=[Weiß, zweilagig. Liniengeprägtes geschwungenes Gitter, jedes 2. Fach mit flächig geprägtem Blütenmotiv gefüllt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090186/index.html"><img src="images/scans/thumbs/186.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210270187] body=[Weiß, zweilagig. Raster aus karoförmigen Punkten sowie 2 Streifen mit Gitterstruktur. Blau bedruckt mit Motiv aus 2 Rechtecken (0,5/0,8 x 0,1 cm).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210270187/index.html"><img src="images/scans/thumbs/187.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441090188] body=[Weiß, vierlagig. Liniengeprägtes Blumenmuster mit Freiflächen vor feinem Hintergrundmuster. Rückseite: abgerundete Rechtecke in Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441090188/index.html"><img src="images/scans/thumbs/188.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341170189] body=[Weiß, dreilagig. Motive zum Thema &quot;Fußball&quot; (Spieler, Ball, Wimpel, Pokal) in blau ausgedruckter Linienprägung. Feines Hintergrundraster. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341170189/index.html"><img src="images/scans/thumbs/189.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3331090190] body=[Lachsrosa, dreilagig. Prägung:Bögen aus Punkten, wie Nr. 1331280142 und Nr. 1331270176.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3331090190/index.html"><img src="images/scans/thumbs/190.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1230280191] body=[Weiß, zweilagig. Prägung: nur teilweise sichtbare Wellenformen wie in Nr. 1331090112. Druck: Blumenmotive (3 versch.) in grün/blau.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1230280191/index.html"><img src="images/scans/thumbs/191.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1330090192] body=[Weiß, dreilagig. Aus runden Prägepunkten gebildete, aneinanderliegende Doppelschlangen mit gefüllten Enden. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1330090192/index.html"><img src="images/scans/thumbs/192.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4241140193] body=[Gelb, zweilagig. Sternförmige Blüten (rosa ausgedruckt) in Linienprägung. Sehr feines Hintergrundraster quer zur Abwickelrichtung.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4241140193/index.html"><img src="images/scans/thumbs/193.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[4231160194] body=[Gelb, zweilagig. Schlangenlinien aus ovalen Punkten, dazwischen (Baumwoll?-)Blütenmotiv aus rechteckigen Prägepunkten. ] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/4231160194/index.html"><img src="images/scans/thumbs/194.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1352170195] body=[Weiß, dreilagig. Runde Prägepunkte formen geschwungenes, schräges Gitter. Die Hälfte der Fächer ist gefüllt mit Muschel- bzw. Fisch-Motiv.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1352170195/index.html"><img src="images/scans/thumbs/195.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1312280196] body=[Weiß, dreilagig. Prägung genau wie 1312280167, Druck nahezu. Gänseblümchen-Motiv hier stärker stilisiert und farbstärker gedruckt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1312280196/index.html"><img src="images/scans/thumbs/196.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1314160197] body=[Weiß, dreilagig. Liniengeprägte Motive zum Thema &quot;Weihnachten/Neujahr&quot; (Elch, Stern, Schriftzug &quot;Merry Christmas&quot;, &quot;Happy New Year&quot;). Feines Hintergrundraster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1314160197/index.html"><img src="images/scans/thumbs/197.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1441140198] body=[Weiß, vierlagig. Prägung: geschwungenes Netz-/Gitter-Muster, an der Hälfte der Kreuzungspunkte Blütenmotiv. Hintergrundraster aus kleinen karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1441140198/index.html"><img src="images/scans/thumbs/198.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1320280199] body=[Weiß, dreilagig. Prägung: leichtes diagonales Rasterrelief. Druck: Weihnachtsmann in verschiedenen Posen.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1320280199/index.html"><img src="images/scans/thumbs/199.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090200] body=[Weiß, zweilagig. Prägung: Gitter-/Netzmuster Typ &quot;Steppdecke&quot;, mit Punkten an Kreuzungen; teilweise Blütenmotiv in den Feldern.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090200/index.html"><img src="images/scans/thumbs/200.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1210090201] body=[Weiß, zweilagig. Sehr feines Raster aus karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1210090201/index.html"><img src="images/scans/thumbs/201.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090202] body=[Weiß, dreilagig. Blumenmotiv in Linienprägung (3 Größen, mittlere auch gespiegelt) mit Freiflächen vor schrägem Hintergrundraster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090202/index.html"><img src="images/scans/thumbs/202.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1452090203] body=[Weiß, vierlagig. Punktgeprägte Kreise, die sich im Viertelbogen durchschneiden. In den Kreismitten flächig gepräges Blütenmotiv.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1452090203/index.html"><img src="images/scans/thumbs/203.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1310270204] body=[Weiß, dreilagig. Prägung: Raster aus karoförmigen Prägepunkten. Druck: Schnörkelmotiv in blau, ca. 6-mal pro Blatt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1310270204/index.html"><img src="images/scans/thumbs/204.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[3352140205] body=[Rosa, dreilagig. Versetzte Schlangenlinien aus rosa ausgedruckten Punkten. Dazwischen flächig geprägtes Blütenmotiv (auch rosa).] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/3352140205/index.html"><img src="images/scans/thumbs/205.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2341090206] body=[Recycling-Beige, dreilagig. Netz-Muster aus geschwungenen Linien; Blütenblätter-Motiv an den Kreuzungspunkten. Mit Hintergrundraster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2341090206/index.html"><img src="images/scans/thumbs/206.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1241090207] body=[Weiß, zweilagig. Blattmotiv (Stengel mit 3 bzw. 5 lanzettförmigen Einzelblättern) vor feinem Hintergrundraster aus karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1241090207/index.html"><img src="images/scans/thumbs/207.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[0110090208] body=[Recycling-grau, einlagig. Raster aus sehr feinen, karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/0110090208/index.html"><img src="images/scans/thumbs/208.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090209] body=[Weiß, dreilagig. 2 verschiedene Blütenmotive in diagonalen Reihen angeordnet. Feines diagonales Raster aus quadratischen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090209/index.html"><img src="images/scans/thumbs/209.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1320200210] body=[Weiß, dreilagig. Prägung: Rasterrelief wie Nr. 1320280199. Mit klassischen Ornamenten flächendeckend bedruckt.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1320200210/index.html"><img src="images/scans/thumbs/210.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1320280211] body=[Weiß, dreilagig. Prägung: Rasterrelief wie in Nr. 1320280199 und Nr. 1220200210. Flächendeckend bedruckt mit Weihnachtsmann-Köpfen, dazwischen Sterne.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1320280211/index.html"><img src="images/scans/thumbs/211.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[2100570212] body=[Bräunlich (vergilbt?), einlagig.
+Krepp. Bedruckt mit informativen Texten, Sprüchen, Rätseln, evt. mehr.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/2100570212/index.html"><img src="images/scans/thumbs/212.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1341090213] body=[Weiß, dreilagig. Flächendeckende Prägung: Liniengeprägte aneinanderliegende Kreise, dazwischen Quadrate. Hintergrundraster aus karoförmigen Prägepunkten.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1341090213/index.html"><img src="images/scans/thumbs/213.jpg" alt="" width="80" height="57"/></a>
+</div>
+<div class="thumb_sq1" style="width:80px; height:57px;">
+<a title="header=[1541160213] body=[Weiß, fünflagig. Liniengeprägtes Blütenmotiv, ca. 8-Mal, teilw. angeschnitten, pro Einzelblatt, mit Freiflächen vor Hintergrundraster.] cssbody=[tipbody] cssheader=[tipheader]" href="klopapier/1541160213/index.html"><img src="images/scans/thumbs/213.jpg" alt="" width="80" height="57"/></a>
+</div>
+</div>
+</div></div>
+<div style="position:absolute; left: 933px; width: 30px; top:300px;">
+	</div>
+</div>
+
+<div id="footer">
+<div style="position:absolute; left: 100px; width: 800px;">
+</div>
+</div>
+
+
+</body>
+</html>
+
+<!-- Localized -->
